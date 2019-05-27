@@ -6,4 +6,8 @@ thisIsANewMethod() {
  print("member2")
  }
 
+newMethod() {
+
+}
+
 some code
