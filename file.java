@@ -1,1 +1,3 @@
 java file
+
+thisIsANewMethod() { }
