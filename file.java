@@ -1,7 +1,8 @@
 java file
 
 
-thisIsANewMethod() { }
+thisIsANewMethod() {
+  print("member1")
+ }
 
 some code
-
