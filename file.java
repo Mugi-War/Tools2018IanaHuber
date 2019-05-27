@@ -7,7 +7,7 @@ thisIsANewMethod() {
  }
 
 newMethod() {
-
+print("step5")
 }
 
 some code
