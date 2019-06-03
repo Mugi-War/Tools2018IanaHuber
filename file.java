@@ -10,6 +10,7 @@ thisIsANewMethod() {
 
 newMethod() {
 print("step5")
+System.out.print("Tools2018LangbauerManya");
 }
 
 some code
